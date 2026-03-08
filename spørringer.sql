@@ -40,4 +40,5 @@ SELECT u.*, k.fornavn, k.etternavn, k.mobilnummer
 FROM utleie u
 JOIN kunde k ON u.kunde_id = k.kunde_id
 WHERE u.innlevert IS NULL
+
    OR u.innlevert > u.utlevert + INTERVAL '1 day';
