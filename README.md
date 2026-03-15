@@ -20,3 +20,4 @@ Her er en oversikt over læringsmålene i forhold til fremdriftsplanen i emne ht
 
 Ha en fin læringsutbytte ved å arbeide med denne oppgaven!
 
+# database-oblig1
